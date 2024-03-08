@@ -1,0 +1,4 @@
+MAJOR: starting  logger function INFO: starting  logger function MAJOR: starting  logger function INFO: starting  logger function 
+MAJOR: starting  logger function 
+INFO: starting  logger function 
+MAJOR: starting  logger function 
